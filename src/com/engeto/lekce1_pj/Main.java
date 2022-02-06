@@ -14,7 +14,7 @@ public class Main {
         String jmenoKlienta = "Karel Vonásek"; //jmeno a přijmení  klienta
         int pocetNakupu = 12;  // kolik zakazniku si koupilo vyrobek
         String mesto = "Ostrava";  // nazev mesta, kde sidli firma
-        double spotreba = 8.4; // spotřeba litru na 100 km
+        double spotreba = 8.4; // spotřeba litru na 100
         double delkaKabelu = 123.6;
         LocalDate datumNarozeniKlienta = LocalDate.of(1962,5,21);
         String registracniZnacka = "APX 0788";
